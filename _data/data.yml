@@ -8,257 +8,251 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Donizete Júnior Ribeiro Vida
+    tagline: Embedded AOSP Android Developer
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: donizetevida1998@outlook.com
+    phone: +55 19 98322-4798
+    timezone: America/Sao Paulo
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website:
+    linkedin: donizete-vida-7732b6157
+    xing:
+    github: aosp-donizete
+    telegram:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads:
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Portuguese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Intermediate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Programming
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Books
+       
+        - item: Embedded devices
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Working on Android development for more than 5 years.  
+        Working on AOSP development after few years of Android application
+        development, by making new modules, customizations, extensions, etc.  
+        Learning and teaching famous libraries to get deep knowledge
+        about its internals mechanisms.  
+        Helping people with Android development.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Análise e desenvolvimento de sistemas
+        university: FATEC - Mogi Mirim
+        time: 2020 - 2023
+        details: #
+      - degree: Técnico em informática
+        university: SENAI
+        time: 2017 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          My first touch on computer science technology.  
+          A lot of general knowledges.  
+            - Android
+            - Algorithms
+            - Programming in general
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Android AOSP Developer
+        time: 06/2022 - Present
+        company: Brightgrove, Ukraine - Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            Working as a AOSP platform developer, by creating new extensions
+            to fit product needs.
+            Also, working as a Android developer by creating privileged applications
+            to leverage our own platform.
+            - Kotlin/Java
+            - Dagger2/Hilt
+            - Binder IPC/RPC
+            - TV Stack
+      - role: Android AOSP Developer
+        time: 01/2022 - 06/2023
+        company: Venturus, Campinas - Brazil
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            Working for Motorola Mobility with Android Open Source Project (AOSP).  
+            Creating and extending AOSP modules, by using its internals privileged API's
+            to provide user a better experience.  
+            - Kotlin/Java
+            - Dagger2/Hilt
+            - Binder IPC/RPC
+      - role: Android Application Developer
+        time: 11/2020 - 01/2022
+        company: SIDI, Campinas - Brazil
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+          Android application developer on Samsung Knox project.  
+          Responsible for all design implementation details, such as
+          activity, fragment and services management.  
+          Making usage of privileged API's to achieve user necessities.
+            - I created a pure Kotlin library to transform all callback
+            based location methods into a synchronous Java call.  
+            - Java/Kotlin
+            - Room
+            - Navigation API
+            - MVVM/SOLID
+            - Single activity application
+      - role: Android Application Developer
+        time: 03/2020 - 11/2020
+        company: Stefanini, Campinas - Brazil
+        details: |
+          Working on Shell Box Android project.  
+          Shell Box is a LATAM mobile application designed to facilitate 
+          gas station payment process.  
+          Responsible for implement all related customer features.
+            - Java/Kotlin
+            - Room
+            - Navigation API
+            - MVVM/SOLID
+      - role: Android Application Developer
+        time: 08/2019 - 3/2020
+        company: Solvian, Campinas - Brazil
+        details: |
+          Working on an user management application.  
+          Responsible for discuss, analyze and implement required features.  
+            - Java/Kotlin
+            - greenDAO
+            - MVP/SOLID
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: android_vendor_venturus_MinimalApp
+        link: https://github.com/aosp-donizete/android_vendor_venturus_MinimalApp
+        tagline: A minimal AOSP project to teach people about embedded development.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: venturus_packages_apps_SystemUI_SystemUIClockPlugin
+        link: https://github.com/aosp-donizete/venturus_packages_apps_SystemUI_SystemUIClockPlugin
+        tagline: A SystemUI AOSP module plugin project to teach people about how SystemUI works by injecting
+          plugins using dex injection on its process.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: android_vendor_venturus_MinimalBinder
+        link: https://github.com/aosp-donizete/android_vendor_venturus_MinimalBinder
+        tagline: A project to teach about Binder mechanism.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: android_vendor_venturus_MinimalBinderConsumer
+        link: https://github.com/aosp-donizete/android_vendor_venturus_MinimalBinderConsumer
+        tagline: A project to teach about Binder mechanism.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: c
+        link: https://github.com/vidadonizete/c
+        tagline: My personal C code repository to reproduce some algorithms.
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: image2ascii
+        link: https://github.com/DonizeteVida/image2ascii
+        tagline: A pure C project that aims to convert any libjpeg-turbo supported image to
+          its version using letters.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: smooth_page_indicator
+        link: https://github.com/DonizeteVida/smooth_page_indicator
+        tagline: A custom view developed to help Shell Box to implement its desired design.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: boringssl-examples
+        link: https://github.com/DonizeteVida/boringssl-examples
+        tagline: A boringSSL POC designed to understand certificate verification process
+          by using elliptic curve cryptography.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: dirk
+        link: https://github.com/DonizeteVida/dirk
+        tagline: A Dagger-like compile time library implementation using Kotlin and KSP code compiler.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: kash
+        link: https://github.com/DonizeteVida/kash
+        tagline: A Koin-like runtime library implementation using functional Kotlin DSL language.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: fast-json
+        link: https://github.com/DonizeteVida/fast-json
+        tagline: A safe json library using Kotlin and KSP code compiler.
+
+      - title: Mockling
+        link: https://github.com/vidadonizete/Mockling
+        tagline: A WIP project to implement a Kotlin DSL mock library.
+
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Kotlin
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: Rust
+        level: 20%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C++
+        level: 40%
 
-      - name: Sketch & Photoshop
+      - name: Javascript
+        level: 100%
+
+      - name: Typescript
         level: 60%
 
 footer: >
