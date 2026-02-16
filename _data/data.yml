@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Donizete Junior Ribeiro Vida
+  tagline: AAOS - AOSP - Mobile developer
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: donizetevida1998@outlook.com
+  phone: +46 760029018
+  timezone: America/Sao_Paulo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Brazilian
+  website: https://github.com/DonizeteVida/ # Include the full website URL, including "http://" or "https://".
+  linkedin: donizete-vida-7732b6157
+  xing:
+  github: DonizeteVida
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,250 +37,207 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Brazilian Portuguese
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Programming
       link:
 
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
+    - item: Embedded
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Donizete is a skilled Android Fullstack software engineer with over 6 years of 
+    experience, having contributed to industry leaders like Samsung and Motorola. 
+    This background includes expertise in both Android app development as well as
+    AOSP through hands-on improvements to Android's internal mechanisms. 
+    Well versed in the full spectrum of Android development—from foundational concepts 
+    to technical constraints—Donizete is dedicated to mastering the details and 
+    sharing insights, making complex topics accessible to colleagues and fostering a 
+    collaborative learning environment.
 education:
-  title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    title: Education
+    info:
+      - degree: Análise e desenvolvimento de sistemas
+        university: FATEC - Mogi Mirim
+        time: 2020 - 2023
+        details: #
+      - degree: Técnico em informática
+        university: SENAI
+        time: 2017 - 2019
+        details: |
+          My first touch on computer science technology.  
+          A lot of general knowledges.  
+            - Android
+            - Algorithms
+            - Programming in general
 
 experiences:
-  title: Experiences
-  info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    title: Experiences
+    info:
+      - role: Android Developer Consultant
+        time: 03/2025 - Present
+        company: Volvo Trucks, Gothenburg, Sweden - On-site
+        details: |
+            Working as a software consultant, developing and maintaining
+            Volvo Trucks AAOS apps.
+            - Kotlin
+            - C++
+            - CarProperty
+            - RRO
+            - AAOS
+      - role: Android AOSP Developer
+        time: 06/2023 - 03/2025
+        company: Brightgrove, Ukraine - Remote
+        details: |
+            Working as a AOSP platform developer, by creating new extensions
+            to fit product needs.
+            Also, working as a Android developer by creating privileged applications
+            to leverage our own platform.
+            - Kotlin/Java
+            - Dagger2/Hilt
+            - Binder IPC/RPC
+            - TV Stack
+      - role: Android AOSP Developer
+        time: 01/2022 - 06/2023
+        company: Venturus, Campinas - Brazil
+        details: |
+            Working for Motorola Mobility with Android Open Source Project (AOSP).  
+            Creating and extending AOSP modules, by using its internals privileged API's
+            to provide user a better experience.  
+            - Kotlin/Java
+            - Dagger2/Hilt
+            - Binder IPC/RPC
+      - role: Android Application Developer
+        time: 11/2020 - 01/2022
+        company: SIDI, Campinas - Brazil
+        details: |
+          Android application developer on Samsung Knox project.  
+          Responsible for all design implementation details, such as
+          activity, fragment and services management.  
+          Making usage of privileged API's to achieve user necessities.
+            - I created a pure Kotlin library to transform all callback
+            based location methods into a synchronous Java call.  
+            - Java/Kotlin
+            - Room
+            - Navigation API
+            - MVVM/SOLID
+            - Single activity application
+      - role: Android Application Developer
+        time: 03/2020 - 11/2020
+        company: Stefanini, Campinas - Brazil
+        details: |
+          Working on Shell Box Android project.  
+          Shell Box is a LATAM mobile application designed to facilitate 
+          gas station payment process.  
+          Responsible for implement all related customer features.
+            - Java/Kotlin
+            - Room
+            - Navigation API
+            - MVVM/SOLID
+      - role: Android Application Developer
+        time: 01/2018 - 3/2020
+        company: Solvian, Campinas - Brazil
+        details: |
+          Working on an user management application.  
+          Responsible for discuss, analyze and implement required features.  
+            - Java/Kotlin
+            - greenDAO
+            - MVP/SOLID
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Formacao em Android Embarcado
+    start: 2022
+    end: 2022
+    organization: Embedded Labworks
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      https://www.linkedin.com/in/sprado/
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    My personal projects that I truly feel proud
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: turing-smart-screen-rust
+    link: https://github.com/rust-donizete/turing-smart-screen-rust
+    tagline: "A display protocol implemented in Rust"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: translucent-sdl3
+    link: https://github.com/graphics-donizete/translucent-sdl3
+    tagline: "My personal tool to create floating transparent JPEG/PNG windows, to help me with figma design implementations. Written using C and SDL3."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: ShaderPaper
+    link: https://github.com/apps-donizete/ShaderPaper
+    tagline: "An Android app that puts an OpenGL ES shader as your paper. It wastes battery."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: KomicReader
+    link: https://github.com/apps-donizete/KomicReader
+    tagline: "A CBR/CBZ comic book reader."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: android-so-graph-python
+    link: https://github.com/aosp-donizete/android-so-graph-python
+    tagline: "A python script that collects all shared libraries from the Android OS and generates a visual dependency graph. It laggs."
+
+  - title: dirk
+    link: https://github.com/android-donizete/dirk
+    tagline: "A minimal KSP compiler to explore dagger/hilt internals."
+
+  - title: fast-json
+    link: https://github.com/android-donizete/fast-json
+    tagline: "A KSP compiler to generate a compile time JSON parser, without reflection."
+
+  - title: kash
+    link: https://github.com/android-donizete/kash
+    tagline: "A minimal Koin implementation, allowing you to create containers and inject dependencies. Simple, reflection based."
+
+  - title: android_device_donizete
+    link: https://github.com/aaos-donizete/android_device_donizete
+    tagline: "My AOSP products, in order to explore the build system and how to tweak my own products."
+
+  - title: CarlSystemUI
+    link: https://github.com/aaos-donizete/CarlSystemUI
+    tagline: "An example that shows how to extend the SystemUI/CarSystemUI, without changing its original source code."
 
 oss:
   title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  intro:
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  - title: cinkhangin/composable
+    link: https://github.com/cinkhangin/composable/pull/40
+    tagline: "An open-source Android app showcasing Jetpack Compose UI components and interactions for learning and inspiration."
 
 skills:
-  title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiency
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+    toolset:
+      - name: Kotlin
+        level: 100%
 
-  - name: Javascript & jQuery
-    level: 98%
+      - name: Java
+        level: 100%
 
-  - name: Angular
-    level: 98%
+      - name: Dart
+        level: 100%
 
-  - name: HTML5 & CSS
-    level: 95%
+      - name: Rust
+        level: 20%
 
-  - name: Ruby on Rails
-    level: 85%
+      - name: C
+        level: 70%
 
-  - name: Sketch & Photoshop
-    level: 60%
+      - name: C++
+        level: 40%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
